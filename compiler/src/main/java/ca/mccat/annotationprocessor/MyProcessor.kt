@@ -7,7 +7,7 @@ import javax.lang.model.SourceVersion
 import javax.lang.model.element.TypeElement
 import javax.tools.Diagnostic
 
-class MyProccessor : AbstractProcessor() {
+class MyProcessor : AbstractProcessor() {
     override fun getSupportedSourceVersion(): SourceVersion = SourceVersion.latestSupported()
 
     override fun getSupportedAnnotationTypes(): MutableSet<String> =

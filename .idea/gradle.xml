@@ -8,9 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/annotationProcessor" />
             <option value="$PROJECT_DIR$/annotations" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/badCompiler" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
